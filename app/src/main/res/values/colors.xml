@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="sand_light">#EDD29D</color>
+    <color name="sand_middle">#DDC784</color>
+    <color name="sand_strong">#F1BA72</color>
+</resources>

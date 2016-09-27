@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My App Portfolio</string>
+    <string name="error_message">Error: you clicked on an unrecognised button</string>
+    <string name="main_apps_title">My Nanodegree Apps!</string>
+    <string name="app_movies_title">Popular movies</string>
+    <string name="app_stock_title">Stock Hawk</string>
+    <string name="app_bigger_title">Build it Bigger</string>
+    <string name="app_material_title">Make Your App Material</string>
+    <string name="app_ubiquitous_title">Go Ubiquitous</string>
+    <string name="app_capstone_title">Capstone</string>
+    <string name="app_movies_toast">This button will launch my Popular movies app!</string>
+    <string name="app_stock_toast">This button will launch my Stock Hawk app!</string>
+    <string name="app_bigger_toast">This button will launch my Build it Bigger app!</string>
+    <string name="app_material_toast">This button will launch my Make Your App Material app!</string>
+    <string name="app_ubiquitous_toast">This button will launch my Go Ubiquitous app!</string>
+    <string name="app_capstone_toast">This button will launch my Capstone app!</string>
+</resources>
